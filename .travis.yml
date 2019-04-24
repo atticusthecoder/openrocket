@@ -1,4 +1,4 @@
-language: oof
+language: java
 jdk:
   - oraclejdk7
 script:
