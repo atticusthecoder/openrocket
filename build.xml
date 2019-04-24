@@ -41,7 +41,7 @@
 	</target>
 
     <!-- TEST -->
-	
+	<!--
 	<target name="unittest" depends="unittest-core, unittest-swing">
 	</target>
 	
@@ -52,7 +52,7 @@
 	<target name="unittest-swing" depends="jar-swing">
 		<ant dir="swing" target="unittest" inheritAll="false" />
 	</target>
-
+-->
     <!-- CHECK -->
     <target name="check" depends="checktodo,checkascii"/>
 
