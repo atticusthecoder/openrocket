@@ -1,8 +1,10 @@
 OpenRocket
 ==========
 
-Build Status - [ ![Build Status](https://travis-ci.org/openrocket/openrocket.png) ](https://travis-ci.org/openrocket/openrocket)
+Build Status - [ ![Build Status](https://travis-ci.org/atticusthecoder/openrocket.png) ](https://travis-ci.org/atticusthecoder/openrocket)
 ------------
+
+HEY! This is a custom branch of open rocket for Tumwater High School
 
 Overview
 --------
